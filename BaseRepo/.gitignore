@@ -4,8 +4,6 @@ x32/
 x86/
 Debug/
 
-packages/
-
 BaseRepo/Debug/
 BaseRepo/x64/
 BaseRepo/x32/
@@ -23,5 +21,3 @@ BaseRepoTests/x86/
 BaseRepoTests/.vs/
 
 *.result
-
-packages/
